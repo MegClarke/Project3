@@ -1,6 +1,8 @@
 # Hash Hash Hash
 Meagan Clarke, UID: 706058350
 
+This lab implements two different strategies of using multi-threads in hash table manipulation.
+
 ## Building
 ```shell
 make clean
